@@ -1,5 +1,5 @@
 # Python-Workshop-Code
-Here stores the coding files from a Python workshop "資料科學家的工作日常" Basic I. Below are the word explaining for each code files (exclude the questions-answers problem) and the files are updated from my local computer:
+Here stores the coding files from a Python workshop "資料科學家的工作日常" Basic I. Below are the word explanation for each code files (exclude the questions-answers problem) and the files are updated from my local computer:
 
 * 作業一 (HW 1): HW 1 includes the basic practice about Python codes, such as printing out "Hello World!".
 * 作業二 (HW 2): HW 2 includes the practices about integers and floats. The coding problems are the sum of two integers and the interchangement of two variables.
