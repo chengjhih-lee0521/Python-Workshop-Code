@@ -7,7 +7,7 @@ Here stores the coding files from a Python workshop "資料科學家的工作日
 * 作業四 (HW 4): HW 4 is about the basic container in Python (list, tuple). The coding problems are switching the elements of a list.
 * 作業五 (HW 5): HW 5 is about the advance container in Python (dictionary). The coding problems are combining dictionaries and removing the repeated elements of a list.
 * 作業七 (HW 7): HW 7 is about the process control such as loop and if-else. The coding problems are the calculation of factorial number and discriminating the odd and even numbers of a llist.
-* 作業八 (HW 8): HW 8 is about the advance topic of process contorl. The coding problems include the sum of factorial number and letter calculation of a string.
+* 作業八 (HW 8): HW 8 is about the advance topic of process control. The coding problems include the sum of factorial number and letter count of a string.
 * 作業九 (HW 9): HW 9 is about defining a function in Python. The coding problems include the Prime number determiniation and the summation of an unlimited length of numbers.
 * 作業十 (HW 10): HW 10 is about exception. However, there are only question-answers problems and no coding problems (thus there is no code in the file).
 
