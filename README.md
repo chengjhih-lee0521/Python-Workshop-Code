@@ -11,4 +11,4 @@ Here stores the coding files from a Python workshop "資料科學家的工作日
 * 作業九 (HW 9):
 * 作業十 (HW 10):
 
-There is no file for 作業六 (HW 6) 
+There is no file for 作業六 (HW 6) because there are no assignments.
